@@ -24,4 +24,9 @@ public class FacebookLogin {
 		
 		
 	}
+	
+	public void print() {
+		System.out.println("This is selenium project");
+	
+	}
 }
