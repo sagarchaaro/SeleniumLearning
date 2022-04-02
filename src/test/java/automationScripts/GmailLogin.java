@@ -25,5 +25,8 @@ public class GmailLogin {
 		
 		
 	}
-
+	
+	void display(){
+		System.out.println("Learning Automation Tools");
+	}
 }
